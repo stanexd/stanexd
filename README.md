@@ -27,7 +27,7 @@ I am a novice specialist in the field of product analytics.
 - 🔎 I analyze the data and look for dependencies.
 - 📊 I explore hypotheses and check metrics.
 
-  ---
+---
 
   ### 🛠️ Languages and Tools:
   <div>
