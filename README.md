@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQxOWJuMGRzc3o5N3pmN2E3b3RtaW1sendpeGtlMmIzejJ4MW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="250"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQxOWJuMGRzc3o5N3pmN2E3b3RtaW1sendpeGtlMmIzejJ4MW1obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="150"/>
 
 <div id="badges">
   <a href = "https://t.me/justforjobs1">
@@ -16,7 +16,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdpOHcyYW9zamhybTRwZ25wOWI5NTE3ZXA0djlqc3l3eGs0cGx6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="325"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdpOHcyYW9zamhybTRwZ25wOWI5NTE3ZXA0djlqc3l3eGs0cGx6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="225"/>
 </div>
 
 ---
