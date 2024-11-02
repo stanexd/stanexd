@@ -45,4 +45,8 @@ I am a novice specialist in the field of product analytics.
 
 ---
 
+![](https://leetcard.jacoblin.cool/stanexd?theme=light,unicorn)
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanexd)](https://github.com/anuraghazra/github-readme-stats)
