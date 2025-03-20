@@ -10,22 +10,21 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=stanexd&style=flat-square&color=blue" alt=""/>
-<h1>
+<!-- <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdpOHcyYW9zamhybTRwZ25wOWI5NTE3ZXA0djlqc3l3eGs0cGx6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="225"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdpOHcyYW9zamhybTRwZ25wOWI5NTE3ZXA0djlqc3l3eGs0cGx6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="225"/> -->
 </div>
 
 ---
 
 ### 👨‍💻 About Me:
-I am a novice specialist in the field of product analytics.
+I am a novice specialist in the field of data analytics.
 - 🦾 I am a 4th year student at the Faculty of Physics of MSU.
-- 🔎 I analyze the data and look for dependencies.
-- 📊 I explore hypotheses and check metrics.
+- 🔎 I am also studying at the additional education program at MIPT on the track "Data Analyst Pro"
 
 ---
 
